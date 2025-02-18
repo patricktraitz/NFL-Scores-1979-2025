@@ -1,0 +1,45 @@
+team_name,team_name_short,team_id,team_conference,team_division,team_conference_pre2002,team_division_pre2002
+Arizona Cardinals,Cardinals,ARI,NFC,NFC West,NFC,NFC West
+Atlanta Falcons,Falcons,ATL,NFC,NFC South,NFC,NFC West
+Baltimore Colts,Colts,IND,AFC,,AFC,AFC East
+Baltimore Ravens,Ravens,BAL,AFC,AFC North,AFC,AFC Central
+Boston Patriots,Patriots,NE,AFC,,AFC,
+Buffalo Bills,Bills,BUF,AFC,AFC East,AFC,AFC East
+Carolina Panthers,Panthers,CAR,NFC,NFC South,NFC,NFC West
+Chicago Bears,Bears,CHI,NFC,NFC North,NFC,NFC Central
+Cincinnati Bengals,Bengals,CIN,AFC,AFC North,AFC,AFC Central
+Cleveland Browns,Browns,CLE,AFC,AFC North,AFC,AFC Central
+Dallas Cowboys,Cowboys,DAL,NFC,NFC East,NFC,NFC East
+Denver Broncos,Broncos,DEN,AFC,AFC West,AFC,AFC West
+Detroit Lions,Lions,DET,NFC,NFC North,NFC,NFC Central
+Green Bay Packers,Packers,GB,NFC,NFC North,NFC,NFC Central
+Houston Oilers,Oilers,TEN,AFC,,AFC,AFC Central
+Houston Texans,Texans,HOU,AFC,AFC South,AFC,
+Indianapolis Colts,Colts,IND,AFC,AFC South,AFC,AFC East
+Jacksonville Jaguars,Jaguars,JAX,AFC,AFC South,AFC,AFC Central
+Kansas City Chiefs,Chiefs,KC,AFC,AFC West,AFC,AFC West
+Las Vegas Raiders,Raiders,LVR,AFC,,AFC,AFC West
+Los Angeles Chargers,Chargers,LAC,AFC,AFC West,AFC,AFC West
+Los Angeles Raiders,Raiders,LVR,AFC,,AFC,AFC West
+Los Angeles Rams,Rams,LAR,NFC,NFC West,NFC,NFC West
+Miami Dolphins,Dolphins,MIA,AFC,AFC East,AFC,AFC East
+Minnesota Vikings,Vikings,MIN,NFC,NFC North,NFC,NFC Central
+New England Patriots,Patriots,NE,AFC,AFC East,AFC,AFC East
+New Orleans Saints,Saints,NO,NFC,NFC South,NFC,NFC West
+New York Giants,Giants,NYG,NFC,NFC East,NFC,NFC East
+New York Jets,Jets,NYJ,NFC,AFC East,NFC,AFC East
+Oakland Raiders,Raiders,LVR,AFC,AFC West,AFC,AFC West
+Philadelphia Eagles,Eagles,PHI,NFC,NFC East,NFC,NFC East
+Phoenix Cardinals,Cardinals,ARI,NFC,,NFC,NFC East
+Pittsburgh Steelers,Steelers,PIT,AFC,AFC North,AFC,AFC Central
+San Diego Chargers,Chargers,LAC,AFC,AFC West,AFC,AFC West
+San Francisco 49ers,49ers,SF,NFC,NFC West,NFC,NFC West
+Seattle Seahawks,Seahawks,SEA,NFC,NFC West,AFC,AFC West
+St. Louis Cardinals,Cardinals,ARI,NFC,,NFC,NFC East
+St. Louis Rams,Rams,LAR,NFC,,NFC,NFC West
+Tampa Bay Buccaneers,Buccaneers,TB,NFC,NFC South,NFC,NFC Central
+Tennessee Oilers,Oilers,TEN,AFC,,AFC,AFC Central
+Tennessee Titans,Titans,TEN,AFC,AFC South,AFC,AFC Central
+Washington Commanders,Washington,WAS,NFC,NFC East,NFC,NFC East
+Washington Football Team,Washington,WAS,NFC,NFC East,NFC,NFC East
+Washington Redskins,Washington,WAS,NFC,NFC East,NFC,NFC East
