@@ -2,7 +2,6 @@
 
 -- Create TABLE
 
-drop table if exists nfl_data;
 create table nfl_data(
 	schedule_date date,
 	schedule_season int,
