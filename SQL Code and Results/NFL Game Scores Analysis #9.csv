@@ -1,0 +1,7 @@
+schedule_date,schedule_season,schedule_week,schedule_playoff,team_home,score_home,score_away,team_away,winner,team_favorite_id,spread_favorite,over_under_line,stadium,stadium_neutral,weather_temperature,weather_wind_mph,weather_humidity,weather_detail
+12/18/1983,1983,16,FALSE,Chicago Bears,23,21,Green Bay Packers,Chicago Bears,GB,-1,43,Soldier Field,FALSE,0,13,57,NULL
+12/18/1983,1983,16,FALSE,Kansas City Chiefs,48,17,Denver Broncos,Kansas City Chiefs,DEN,-2.5,43,Arrowhead Stadium,FALSE,0,15,72,NULL
+12/26/1993,1993,17,FALSE,Green Bay Packers,28,0,Los Angeles Raiders,Green Bay Packers,GB,-3,32.5,Lambeau Field,FALSE,-3,11,54,NULL
+12/22/2008,2008,16,FALSE,Chicago Bears,20,17,Green Bay Packers,Chicago Bears,CHI,-4,40,Soldier Field,FALSE,0,15,68,NULL
+1/10/2016,2015,Wild Card,TRUE,Minnesota Vikings,9,10,Seattle Seahawks,Seattle Seahawks,SEA,-4.5,40,TCF Bank Stadium,FALSE,-6,12,NULL,NULL
+1/13/2024,2023,Wild Card,TRUE,Kansas City Chiefs,26,7,Miami Dolphins,Kansas City Chiefs,KC,-4.5,43.5,GEHA Field at Arrowhead Stadium,FALSE,-4,19,64,NULL

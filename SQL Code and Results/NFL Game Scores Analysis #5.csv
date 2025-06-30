@@ -1,0 +1,9 @@
+schedule_date,schedule_season,schedule_week,schedule_playoff,team_home,score_home,score_away,team_away,winner,team_favorite_id,spread_favorite,over_under_line,stadium,stadium_neutral,weather_temperature,weather_wind_mph,weather_humidity,weather_detail
+9/8/2024,2024,1,FALSE,Miami Dolphins,20,17,Jacksonville Jaguars,Miami Dolphins,MIA,-3.5,49,Hard Rock Stadium,FALSE,NULL,NULL,NULL,NULL
+10/6/2024,2024,5,FALSE,New England Patriots,10,15,Miami Dolphins,Miami Dolphins,MIA,-2,37,Gillette Stadium,FALSE,NULL,NULL,NULL,NULL
+11/11/2024,2024,10,FALSE,Los Angeles Rams,15,23,Miami Dolphins,Miami Dolphins,LAR,-2,49.5,SoFi Stadium,FALSE,72,0,NULL,indoor
+11/17/2024,2024,11,FALSE,Miami Dolphins,34,19,Las Vegas Raiders,Miami Dolphins,MIA,-7.5,43.5,Hard Rock Stadium,FALSE,NULL,NULL,NULL,NULL
+11/24/2024,2024,12,FALSE,Miami Dolphins,34,15,New England Patriots,Miami Dolphins,MIA,-7.5,45.5,Hard Rock Stadium,FALSE,NULL,NULL,NULL,NULL
+12/8/2024,2024,14,FALSE,Miami Dolphins,32,26,New York Jets,Miami Dolphins,MIA,-6.5,45,Hard Rock Stadium,FALSE,NULL,NULL,NULL,NULL
+12/22/2024,2024,16,FALSE,Miami Dolphins,29,17,San Francisco 49ers,Miami Dolphins,SF,-1.5,44,Hard Rock Stadium,FALSE,NULL,NULL,NULL,NULL
+12/29/2024,2024,17,FALSE,Cleveland Browns,3,20,Miami Dolphins,Miami Dolphins,MIA,-3,32.5,FirstEnergy Stadium,FALSE,NULL,NULL,NULL,NULL
