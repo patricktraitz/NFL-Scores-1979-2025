@@ -92,7 +92,8 @@ from nfl_data nd
 where schedule_week like 'Super Bowl' and schedule_season = 2024
 
 -- 7. Write a query that shows the season and week a home team or away team won, as well as highlighting if a team won by shutout. 
-
+-- Results shown in the CSV are post 2000s due to the fact that the file was too large to display.
+	
 select schedule_season, schedule_week, team_home, score_home, score_away, team_away,
 case
 	when score_home > 1 and score_away = 0 then 'HOME SHUTOUT'
